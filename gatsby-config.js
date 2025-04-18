@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Muneeb Ul Hassan',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Muneeb Ul Hassan is a data engineer who specializes in collecting, analyzing, and visualizing data to build scalable data-driven systems.',
+    siteUrl: 'https://muneebulhassan.is-a.dev', // Update with your actual domain
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '', // Add if applicable
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
