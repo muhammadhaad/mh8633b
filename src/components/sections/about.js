@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useEffect, useRef } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
@@ -137,7 +138,7 @@ const About = () => {
     'Flask',
     'Django',
     'Snowflake',
-    'Elastic Stack'
+    'Elastic Stack',
   ];
 
   return (
@@ -148,23 +149,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Muneeb, a seasoned Data Engineer with comprehensive skills in data analytics,
-              architecture design, and dashboard development. My journey began when I discovered
-              how powerful data-driven decision making could be for businesses.
+              Hello! I'm Muneeb, a seasoned Data Engineer with comprehensive skills in data
+              analytics, architecture design, and dashboard development. My journey began when I
+              discovered how powerful data-driven decision making could be for businesses.
             </p>
 
             <p>
-              I specialize in transforming complex data into actionable insights, optimizing business strategies,
-              and fostering data-driven decision-making. My expertise includes ETL processes, data modeling,
-              and business intelligence solutions that enhance customer experiences and operational efficiency.
+              I specialize in transforming complex data into actionable insights, optimizing
+              business strategies, and fostering data-driven decision-making. My expertise includes
+              ETL processes, data modeling, and business intelligence solutions that enhance
+              customer experiences and operational efficiency.
             </p>
-
             <p>
-              I'm certified in {' '}
-              <a href="#">Microsoft Azure Data Fundamentals (DP-900)</a>, hold an {' '}
-              <a href="#">Advanced SQL Certification from HackerRank</a>, and have an {' '}
-              <a href="#">Apache Iceberg Certification</a>, demonstrating
-              my commitment to maintaining cutting-edge technical skills.
+              I'm certified in{' '}
+              <a href="https://learn.microsoft.com/certifications/azure-data-fundamentals/">
+                Microsoft Azure Data Fundamentals (DP-900)
+              </a>
+              , hold an{' '}
+              <a href="https://www.hackerrank.com/skills-directory/sql_intermediate">
+                Advanced SQL Certification from HackerRank
+              </a>
+              , and have an <a href="https://iceberg.apache.org/">Apache Iceberg Certification</a>,
+              demonstrating my commitment to maintaining cutting-edge technical skills.
             </p>
 
             <p>Here are some technologies I've been working with recently:</p>
