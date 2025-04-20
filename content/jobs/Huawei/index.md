@@ -3,7 +3,7 @@ date: '2021-11-01'
 title: 'Software Engineer (Data Analyst)'
 company: 'Huawei'
 location: 'Pakistan'
-range: 'November 2021 - August 2023'
+range: 'May 2021 - August 2023'
 url: 'https://www.huawei.com/'
 ---
 
@@ -13,4 +13,4 @@ url: 'https://www.huawei.com/'
 - Designed Middle East Project Delivery Progress Management platforms that:
   - Saved 200K+ man-hours
   - Reduced overdue site delivery rate to 18%
-  - Improved delivery cycle by 13 days 
+  - Improved delivery cycle by 13 days

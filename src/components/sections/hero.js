@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a data engineer with a passion for building scalable data-driven systems to improve results,
-        make the right decisions and save costs. I've created 50+ data-driven applications
+        I'm a data engineer with a passion for building scalable data-driven systems to improve
+        results, make the right decisions and save costs. I've created 50+ data-driven applications
         focusing on automation, ETL pipelines, and dashboarding.
       </p>
     </>
@@ -74,7 +74,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://drive.google.com/file/d/1KgQjYCwC6KjOBYPDLNocAwKBc4wPwEOd/view"
+      href="https://drive.google.com/file/d/1YWmLFIlHfUmTookjZfZ3kkToqB_mNjF-/view"
       target="_blank"
       rel="noreferrer">
       Check out my resume!
